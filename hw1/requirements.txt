@@ -1,4 +1,4 @@
-gym==0.17.2
+gym[all]==0.17.2
 tensorflow==1.15
 mujoco-py==2.0.2
 tensorflow-probability==0.7.0
